@@ -31,6 +31,7 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
+Leyendo y editando el readme para hacer mi primer commit de la tarea :D #yolo
 ## 💻 GitHub terms to know 
 
 ### Repositories 
